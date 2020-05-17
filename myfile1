@@ -1,4 +1,10 @@
  "my project"
  first modification mark
+<<<<<<< HEAD
  second  modification mark
+=======
+ first modification onmybranch1
+>>>>>>> ppbranch1
+//above content are shown on merge mybranch1 to ppmaster
+//this is the mark of being merged 
  
